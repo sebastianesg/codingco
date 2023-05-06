@@ -1,7 +1,7 @@
 # instrucciones para correr la api
 ## Prerrequisitos
--Tener instalado XAMPP en tu equipo
--Tener instalado Git en tu equipo
+*Tener instalado XAMPP en tu equipo
+*Tener instalado Git en tu equipo
 ## Pasos
 
 Clona el repositorio de Git en una carpeta de tu elección. Puedes hacerlo utilizando el siguiente comando en la terminal:
