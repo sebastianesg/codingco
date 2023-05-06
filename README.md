@@ -37,13 +37,14 @@ php artisan serve
 
 
 Los endpoints de la API que puedes probar:
-GET /api/products: Obtiene una lista de todos los productos.
-POST /api/products: Crea un nuevo producto.
-GET /api/products/{id}: Obtiene los detalles de un producto específico.
-PUT /api/products/{id}: Actualiza los detalles de un producto específico.
-DELETE /api/products/{id}: Elimina un producto específico.
-POST /api/sales: Crea una nueva venta con los detalles de los ítems vendidos.
-Y eso es todo. ¡Espero que esto te ayude a poner en marcha tu aplicación Laravel en XAMPP!
+* GET /api/products: Obtiene una lista de todos los productos.
+* POST /api/products: Crea un nuevo producto.
+* GET /api/products/{id}: Obtiene los detalles de un producto específico.
+* PUT /api/products/{id}: Actualiza los detalles de un producto específico.
+* DELETE /api/products/{id}: Elimina un producto específico.
+* POST /api/sales: Crea una nueva venta con los detalles de los ítems vendidos.
+
+
 
 JSON de prueba para crear producto
 {
